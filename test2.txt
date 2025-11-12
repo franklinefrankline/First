@@ -12,7 +12,7 @@
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Y0QS56H-D8?si=e80Kun0lTZJeVCQ7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
-<p>The Von Neumann architecture, proposed by John von Neumann in 1945, is a foundational model for modern computers. Here are the key components and concepts:
+<p>The Von Neumann architecture, proposed By John von Neumann in 1945, is a foundational model for modern computers. Here are the key components and concepts:
 
     Central Processing Unit (CPU):
     Arithmetic Logic Unit (ALU): Performs arithmetic and logical operations.
