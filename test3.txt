@@ -1,4 +1,4 @@
-<h1>Guess the number</h1>
+<h1>Guess The Number</h1>
 
 
 <input id="one">
